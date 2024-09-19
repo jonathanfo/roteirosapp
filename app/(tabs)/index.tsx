@@ -6,7 +6,7 @@ import { MaterialIcons } from '@expo/vector-icons';
 import Slider from '@react-native-community/slider'
 
 const statusBarHeight = StatusBar.currentHeight
-const KEY_GPT = 'SUA CHAVE AQUI';
+const KEY_GPT = "sua-chave-secreta-aqui"
 
 const styles = StyleSheet.create({
   container: {
